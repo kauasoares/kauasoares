@@ -38,3 +38,25 @@
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introdution to Network |
 | ![AWS CE](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=white) | AWS Cloud Foundations |
 | ![SENAI](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_IA_900-t?style=flat&logoColor=yellow&labelColor=red&color=white) | Microsoft IA-900
+
+
+
+## Projetos
+- Casa inteligente para PCDs
+- Monitoramento on-premises com zabbix e grafana (AlphaGuard)
+- infraestrutura em nuvem utilizando AWS e Azure
+- Infraestrutura de redes no packet tracer
+- Configuração em firewall PFsense
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kauasoares&theme=dark">
+</p>
+
+<h4 align=center>
+ OBRIGADO POR VISITAR
+  <br>
+  <br>
+ <div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-kauasoares">
+ </div>
+</h4>
