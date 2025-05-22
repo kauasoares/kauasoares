@@ -9,7 +9,7 @@
 ## sobre mim
 
 <img align="right" height="190" src="https://files.gamebanana.com/img/ico/sprays/55ce4f383e073.gif">
- <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=4993&pause=995&color=F78236&center=true&vCenter=true&multiline=true&width=435&lines=Cursando+Redes+de+Computadores">
+ <img src=https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2000&pause=300&color=F78236&center=true&vCenter=true&multiline=true&width=435&height=82&lines=Cursando+Redes+de+Computadores;no+SENAI+com+foco+em;CyberSecurity+e+Cloud">
 
 <br><br>
 
@@ -30,3 +30,11 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">
 </p>
+
+## Certificacões
+
+| Certifacação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&color=black) | Cisco NetAcademy Introdution to Network |
+| ![AWS CE](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=white) | AWS Cloud Foundations |
+| ![SENAI](https://img.shields.io/badge/SENAI_-Azure_Fundamentals_IA_900-t?style=flat&logoColor=yellow&labelColor=red&color=white) | Microsoft IA-900
